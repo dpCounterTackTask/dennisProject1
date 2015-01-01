@@ -1,0 +1,3 @@
+Dennis Mac, 27 hours ago - Updated text
+dpCounterTackTask, 2 days ago - Create README.md
+Dennis Pishik, 2 days ago - :octocat: Added .gitattributes & .gitignore files
